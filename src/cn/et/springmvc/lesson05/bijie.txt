@@ -1,0 +1,2 @@
+过滤器是拦截servlet的一些资源，springmvc是使用 servlet实现的，SERVLET的中央库是DispatcherServlet,它自己实现了一个过滤器来拦截springmvc里的action,(是第一道屏障, 过去才会有拦截器)
+拦截器它是一种类似于过滤器的拦截器
